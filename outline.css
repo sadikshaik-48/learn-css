@@ -1,0 +1,13 @@
+div {
+    color: red;
+    padding: 20px;
+    border:black  10px;
+    border-style: solid;
+    border-radius: 20px;
+    margin: auto;
+    margin-top:100px;
+    width: 80px;
+    text-align: center;
+    outline: 15px dotted blue;
+    outline-offset: -10px;
+}
