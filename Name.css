@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://wallpapers.com/images/hd/pinterest-clashing-waves-3zagy8qzlvt7r2j8.jpg");
+    color: white;
+    
+h1 {
+    font-size: 70px;
+    text-align: center;
+    letter-spacing: 20px;
+    word-spacing: 250px;
+    font-weight: bolder;
+}
+}
+#div1 {
+    font-size: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#div2 {
+     font-size: 30px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    font-weight: bolder;
+}
